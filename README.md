@@ -1,26 +1,2 @@
-# Welcome to the git-practice-101 wiki!
 
-This documentation contains all the _errors_ that I faced while learning GIT and GITHUB and the _solutions_ that I found after so many struggles. This documentation exists because I had a very difficult time understanding 'GIT' after numerous studies and clarification I have started to get a hold on the concept. Although the solution to the errors is available on the internet finding a right and good solution is what makes it very difficult. Therefore this documentation will contain all the basic as well as hard-to-find errors and their solutions.
-
-So let's begin this journey. This is going to be **fun**.
-
-## Points to remember
-* Have fun while learning.
-
-## How to connect our folder to GitHub?
-This question has multiple cases 
-* you have a GitHub repository and you want to connect your folder.
-* you do not have a GitHub repository but you want to start adding things to your folder.
-* In case you want a GitHub repository and then you want to add files into it, then create a github repository first and then this case becomes the first case itself.
-
-
-Let's look into both one by one.
-
-
-1. This has multiple cases 
-   when you just have created a completely new github repository. 
-
-    * When there are things present already and now you want to continue in that same repository.
-    * 
-
-****
+# GitHub-Pratice-101
